@@ -5,5 +5,6 @@ entrySelector = "div.sc-1cyq3hq-0.cwZfMc div.sc-1cyq3hq-3.iTmCBs div.sc-1e3tjec-
 titleSelector = "div.sc-1e3tjec-4.kMsPUp div.sc-1e3tjec-5.sc-1e3tjec-7.hCYOxu.fBldjW"
 linkSelector = "*"
 contentSelector = "div.sc-1e3tjec-5.sc-1e3tjec-8.hCYOxu.eIFcXk"
+imageSelector = "img.sc-1e3tjec-3.MHAHg"
 waitUntil = "networkidle"
 onFail = "stale"
