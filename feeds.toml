@@ -1,9 +1,9 @@
 [artistscard]
 title = "Artists'Card"
 url = "https://artistscard.com/ko/ticket"
-entrySelector = "div[class='sc-1cyq3hq-3 jzKJLm'] div[class='sc-1e3tjec-0 gbEYpG']"
-titleSelector = "div[class='sc-1e3tjec-5 sc-1e3tjec-7 bcogIH jxILRF']"
+entrySelector = "div.sc-1cyq3hq-0.cwZfMc div.sc-1cyq3hq-3.iTmCBs div.sc-1e3tjec-0.wmokY"
+titleSelector = "div.sc-1e3tjec-4.kMsPUp div.sc-1e3tjec-5.sc-1e3tjec-7.hCYOxu.fBldjW"
 linkSelector = "*"
-contentSelector = "div[class='sc-1e3tjec-5 sc-1e3tjec-8 bcogIH fEyMUm']"
+contentSelector = "div.sc-1e3tjec-5.sc-1e3tjec-8.hCYOxu.eIFcXk"
 waitUntil = "networkidle"
 onFail = "stale"
