@@ -1,10 +1,19 @@
-[artistscard]
-title = "Artists'Card"
-url = "https://artistscard.com/ko/ticket"
-entrySelector = "div.sc-1cyq3hq-0.cwZfMc div.sc-1cyq3hq-3.iTmCBs div.sc-1e3tjec-0.wmokY"
-titleSelector = "div.sc-1e3tjec-4.kMsPUp div.sc-1e3tjec-5.sc-1e3tjec-7.hCYOxu.fBldjW"
+[concert_upcoming]
+title = "아티스츠카드 ─ 온라인 콘서트 ─ 예정 콘서트"
+url = "https://artistscard.com/concert/upcoming"
+entrySelector = "div.sc-1xh382h-0.gnGyVZ div.sc-1jvru78-0.fJjTvE"
+titleSelector = "span.sc-ozzs8q-0.hBjCtM.sc-h3kawc-3.bNIsWh"
 linkSelector = "*"
-contentSelector = "div.sc-1e3tjec-5.sc-1e3tjec-8.hCYOxu.eIFcXk"
-imageSelector = "img.sc-1e3tjec-3.MHAHg"
+contentSelector = "span.sc-ozzs8q-0.eKmNiL.sc-h3kawc-4.fknMvX"
+imageSelector = "img.sc-h3kawc-0.kXWOgK"
 waitUntil = "networkidle"
-onFail = "stale"
+
+[concert_last]
+title = "아티스츠카드 ─ 온라인 콘서트 ─ 지난 콘서트"
+url = "https://artistscard.com/concert/last"
+entrySelector = "div.sc-1xh382h-0.gnGyVZ div.sc-1jvru78-0.fJjTvE"
+titleSelector = "span.sc-ozzs8q-0.hBjCtM.sc-h3kawc-3.bNIsWh"
+linkSelector = "*"
+contentSelector = "span.sc-ozzs8q-0.eKmNiL.sc-h3kawc-4.fknMvX"
+imageSelector = "img.sc-h3kawc-0.kXWOgK"
+waitUntil = "networkidle"
