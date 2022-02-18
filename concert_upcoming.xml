@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://artistscard.com/concert/upcoming</id>
-    <title>아티스츠카드 ─ 온라인 콘서트 ─ 예정 콘서트</title>
-    <updated>2022-02-18T05:10:09.293Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://artistscard.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>아티스츠카드 ─ 온라인 콘서트 ─ 예정 콘서트</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 18 Feb 2022 05:40:43 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ONSTEINWAY Vol.15 <Choi Nakta>]]></title>
+            <link>https://artistscard.com/concert/upcoming</link>
+            <guid>https://artistscard.com/concert/upcoming</guid>
+            <pubDate>Fri, 18 Feb 2022 05:40:33 GMT</pubDate>
+            <content:encoded><![CDATA[2022-02-26 10:00 (KST)]]></content:encoded>
+            <enclosure url="https://media.artistscard.com/imgs/server/artistscard/ticket_46674181-ee87-4649-a9ef-04dbe0faf8b1_1643262681885?format=jpeg&size=600x800" length="0" type="image//imgs/server/artistscard/ticket_46674181-ee87-4649-a9ef-04dbe0faf8b1_1643262681885"/>
+        </item>
+    </channel>
+</rss>
