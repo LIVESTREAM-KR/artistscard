@@ -2,28 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://artistscard.com/concert/upcoming?lang=ko</id>
     <title>아티스츠카드 ─ 온라인 콘서트 ─ 예정 콘서트</title>
-    <updated>2022-02-22T04:13:53.507Z</updated>
+    <updated>2022-02-22T05:10:42.436Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://artistscard.com/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[RENEWAL CONCERT]]></title>
         <id>https://artistscard.com/concert/upcoming?lang=ko</id>
         <link href="https://artistscard.com/concert/upcoming?lang=ko"/>
-        <updated>2022-02-22T04:13:23.144Z</updated>
+        <updated>2022-02-22T05:10:17.344Z</updated>
         <content type="html"><![CDATA[2022-01-11 04:45 (KST)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[소희의 콘서트 라이브 (always)]]></title>
         <id>https://artistscard.com/concert/upcoming?lang=ko</id>
         <link href="https://artistscard.com/concert/upcoming?lang=ko"/>
-        <updated>2022-02-22T04:13:23.144Z</updated>
+        <updated>2022-02-22T05:10:17.344Z</updated>
         <content type="html"><![CDATA[2022-01-05 04:41 (KST)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[BY]]></title>
         <id>https://artistscard.com/concert/upcoming?lang=ko</id>
         <link href="https://artistscard.com/concert/upcoming?lang=ko"/>
-        <updated>2022-02-22T04:13:23.145Z</updated>
+        <updated>2022-02-22T05:10:17.345Z</updated>
         <content type="html"><![CDATA[2021-05-05 09:00 (KST)]]></content>
     </entry>
 </feed>
