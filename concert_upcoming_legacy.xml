@@ -2,28 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://artistscard.com/concert/upcoming?lang=ko</id>
     <title>아티스츠카드 ─ 온라인 콘서트 ─ 예정 콘서트</title>
-    <updated>2022-02-22T17:13:24.931Z</updated>
+    <updated>2022-02-22T18:14:01.238Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://artistscard.com/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[RENEWAL CONCERT]]></title>
         <id>https://artistscard.com/concert/upcoming?lang=ko</id>
         <link href="https://artistscard.com/concert/upcoming?lang=ko"/>
-        <updated>2022-02-22T17:13:05.044Z</updated>
+        <updated>2022-02-22T18:13:43.664Z</updated>
         <content type="html"><![CDATA[<div class="sc-1jvru78-1 bNNSIX card-cover"><img src="https://media.artistscard.com/test/server/artistscard/ticket_54_1643007731636?format=jpeg&amp;size=600x800" class="sc-h3kawc-0 jpYRJs"><div class="sc-1n6taqb-0 kHhsyk sc-h3kawc-1 jsdyob" color="var(--ac-red-1)"><span class="sc-1n6taqb-1 ehMSKT">LIVE</span></div></div><div class="sc-h3kawc-2 buGQhn"><span color="var(--ac-black)" class="sc-ozzs8q-0 hBjCtM sc-h3kawc-3 bgACtw">RENEWAL CONCERT</span><span color="var(--ac-gray-0)" class="sc-ozzs8q-0 eKmNiL sc-h3kawc-4 cgISIU">2022-01-11 04:45 (KST)</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[소희의 콘서트 라이브 (always)]]></title>
         <id>https://artistscard.com/concert/upcoming?lang=ko</id>
         <link href="https://artistscard.com/concert/upcoming?lang=ko"/>
-        <updated>2022-02-22T17:13:05.044Z</updated>
+        <updated>2022-02-22T18:13:43.665Z</updated>
         <content type="html"><![CDATA[<div class="sc-1jvru78-1 bNNSIX card-cover"><img src="https://media.artistscard.com/imgs/service/coverlala/default/cover?format=jpeg&amp;size=600x800" class="sc-h3kawc-0 jpYRJs"><div class="sc-1n6taqb-0 kHhsyk sc-h3kawc-1 jsdyob" color="var(--ac-red-1)"><span class="sc-1n6taqb-1 ehMSKT">LIVE</span></div></div><div class="sc-h3kawc-2 buGQhn"><span color="var(--ac-black)" class="sc-ozzs8q-0 hBjCtM sc-h3kawc-3 bgACtw">소희의 콘서트 라이브 (always)</span><span color="var(--ac-gray-0)" class="sc-ozzs8q-0 eKmNiL sc-h3kawc-4 cgISIU">2022-01-05 04:41 (KST)</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[BY]]></title>
         <id>https://artistscard.com/concert/upcoming?lang=ko</id>
         <link href="https://artistscard.com/concert/upcoming?lang=ko"/>
-        <updated>2022-02-22T17:13:05.047Z</updated>
+        <updated>2022-02-22T18:13:43.667Z</updated>
         <content type="html"><![CDATA[<div class="sc-1jvru78-1 bNNSIX card-cover"><img src="https://media.artistscard.com/imgs/service/coverlala/default/cover?format=jpeg&amp;size=600x800" class="sc-h3kawc-0 jpYRJs"><div class="sc-1n6taqb-0 fsRQGl sc-h3kawc-1 jsdyob" color="var(--ac-purple)"><span class="sc-1n6taqb-1 ehMSKT">D--293</span></div></div><div class="sc-h3kawc-2 buGQhn"><span color="var(--ac-black)" class="sc-ozzs8q-0 hBjCtM sc-h3kawc-3 bgACtw">BY</span><span color="var(--ac-gray-0)" class="sc-ozzs8q-0 eKmNiL sc-h3kawc-4 cgISIU">2021-05-05 09:00 (KST)</span></div>]]></content>
     </entry>
 </feed>
