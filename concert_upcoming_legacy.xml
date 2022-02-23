@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://artistscard.com/concert/upcoming?lang=ko</id>
     <title>아티스츠카드 ─ 온라인 콘서트 ─ 예정 콘서트</title>
-    <updated>2022-02-23T07:10:54.479Z</updated>
+    <updated>2022-02-23T08:13:42.776Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://artistscard.com/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[온스타인웨이 Vol.15 <최낙타>]]></title>
         <id>https://artistscard.com/concert/upcoming?lang=ko</id>
         <link href="https://artistscard.com/concert/upcoming?lang=ko"/>
-        <updated>2022-02-23T07:10:36.371Z</updated>
+        <updated>2022-02-23T08:13:22.161Z</updated>
         <content type="html"><![CDATA[<div class="sc-1jvru78-1 bNNSIX card-cover"><img src="https://media.artistscard.com/imgs/server/artistscard/ticket_46674181-ee87-4649-a9ef-04dbe0faf8b1_1643262679833?format=jpeg&amp;size=600x800" class="sc-h3kawc-0 jpYRJs"><div class="sc-1n6taqb-0 fsRQGl sc-h3kawc-1 jsdyob" color="var(--ac-purple)"><span class="sc-1n6taqb-1 ehMSKT">D-3</span></div></div><div class="sc-h3kawc-2 buGQhn"><span color="var(--ac-black)" class="sc-ozzs8q-0 hBjCtM sc-h3kawc-3 bgACtw">온스타인웨이 Vol.15 &lt;최낙타&gt;</span><span color="var(--ac-gray-0)" class="sc-ozzs8q-0 eKmNiL sc-h3kawc-4 cgISIU">2022-02-26 10:00 (KST)</span></div>]]></content>
     </entry>
 </feed>
