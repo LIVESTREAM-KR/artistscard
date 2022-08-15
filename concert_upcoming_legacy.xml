@@ -2,14 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://artistscard.com/concert/upcoming?lang=ko</id>
     <title>아티스츠카드 ─ 온라인 콘서트 ─ 예정 콘서트</title>
-    <updated>2022-08-15T05:36:50.422Z</updated>
+    <updated>2022-08-15T06:16:36.561Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://artistscard.com/logo192.png</icon>
-    <entry>
-        <title type="html"><![CDATA[콘서트 브랜디드 포커시드 VOL.1 〈헤르쯔 아날로그〉]]></title>
-        <id>https://artistscard.com/concert/upcoming?lang=ko</id>
-        <link href="https://artistscard.com/concert/upcoming?lang=ko"/>
-        <updated>2022-08-15T05:36:27.061Z</updated>
-        <content type="html"><![CDATA[<div class="sc-1jvru78-1 bNNSIX card-cover"><img src="https://media.artistscard.com/imgs/service/artistscard/ticket/594e0a3e-9678-4579-9ad1-8515a1134772/1660193252835?format=png&amp;size=600x800" class="sc-h3kawc-0 jpYRJs"><div class="sc-1n6taqb-0 fsRQGl sc-h3kawc-1 jsdyob" color="var(--ac-purple)"><span class="sc-1n6taqb-1 ehMSKT">D-20</span></div></div><div class="sc-h3kawc-2 buGQhn"><span color="var(--ac-black)" class="sc-ozzs8q-0 hBjCtM sc-h3kawc-3 bgACtw">콘서트 브랜디드 포커시드 VOL.1 〈헤르쯔 아날로그〉</span><span color="var(--ac-gray-0)" class="sc-ozzs8q-0 eKmNiL sc-h3kawc-4 cgISIU">2022-09-04 09:00 (KST)</span></div>]]></content>
-    </entry>
 </feed>
