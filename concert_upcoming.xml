@@ -2,21 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://artistscard.com/concert/upcoming?lang=ko</id>
     <title>아티스츠카드 ─ 온라인 콘서트 ─ 예정 콘서트</title>
-    <updated>2022-08-18T14:14:30.503Z</updated>
+    <updated>2022-08-18T15:22:14.298Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://artistscard.com/logo192.png</icon>
-    <entry>
-        <title type="html"><![CDATA[콘서트 브랜디드 포커시드 VOL.2 〈디어클라우드〉]]></title>
-        <id>https://artistscard.com/concert/upcoming?lang=ko</id>
-        <link href="https://artistscard.com/concert/upcoming?lang=ko"/>
-        <updated>2022-08-18T14:14:04.651Z</updated>
-        <content type="html"><![CDATA[2022-09-18 09:00 (KST)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[콘서트 브랜디드 포커시드 VOL.1 〈헤르쯔 아날로그〉]]></title>
-        <id>https://artistscard.com/concert/upcoming?lang=ko</id>
-        <link href="https://artistscard.com/concert/upcoming?lang=ko"/>
-        <updated>2022-08-18T14:14:04.653Z</updated>
-        <content type="html"><![CDATA[2022-09-04 09:00 (KST)]]></content>
-    </entry>
 </feed>
